@@ -1,12 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I've heard a lot about data analysis, but hadn't ever done much with it before now. I'm still trying to decide what kind of career within tech
+I want to have. Thus, I decided to try out some data analytics. I've worked with Python in the past; therefore, learning the Pandas library seemed
+like a good place to start.
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+To get my environment working, all I had to do was download the Pandas library. Thankfully, that wasn't challenging and I didn't run into any problems.
+The next step was to find a dataset to work with. Surprisingly, I struggled with this step. I ended up using a D&D dataset that a friend sent me. I
+found it equally challenging to decide what questions I wanted to answer using the dataset. Eventually, I arbitrarily picked two questions and moved on.
 
-{Describe your purpose for writing this software to analyze the data.}
+I then tried to dive into the Pandas library and start learning what I could. I read through some tutorials and articles. I felt like I wasn't understanding
+very well, so I decided to start coding. Hoping that applying what I read would help me better understand what I was trying to learn. In some ways, it did.
+I learned more about what Pandas was capable of doing. However, I don't think I reached a good enough understanding to apply it to my dataset very well.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+I'm pretty sure the code I wrote to filter the dataset, doesn't actually involve the Pandas library. Clearly, there's still more for me to learn about Pandas
+before I can say I'm proficient. In the future, I hope to learn more about Pandas and data analytics. Out of everything I've been learning recently, using
+Pandas has not been my favorite. However, I think if I understood better, my attitude would probably change.
+
+Vido of me briefly explaing my code and running it.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
