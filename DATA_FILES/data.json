@@ -1,0 +1,1 @@
+{"players": [{"adam": {"name": "Onyx", "passive": 10, "notes": ""}}, {"tom": {"name": "Cobalt", "passive": 10, "notes": ""}}, {"erich": {"name": "Arel", "passive": 12, "notes": ""}}], "party": [{"players": ["tom", "erich", "adam"]}, {"npc": []}]}
